@@ -3,7 +3,7 @@
   "name": "some-static-site",
   "version": "0.0.0",
   "scripts": {
-    "build": "preact build",
+    "build": "preact build"
   },
   "eslintConfig": {
     "extends": "preact"
